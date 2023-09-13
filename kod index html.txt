@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+	<html lang="pl-PL">
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Łukasz Czeczko</title>
+		</head>
+		<body>
+		
+<p align="right"> <font color="blue" size="7" face="Arial"> Łukasz </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> Łukasz </font> </p> <br>
+<p align="right"> <font color="blue" size="5" face="Arial"> Łukasz </font> </p> <br>
+<p align="right"> <font color="blue" size="4" face="Arial"> Łukasz </font> </p> <br>
+<p align="right"> <font color="blue" size="3" face="Arial"> Łukasz </font> </p> <br>
+<p align="right"> <font color="blue" size="2" face="Arial"> Łukasz </font> </p> <br>
+<p align="right"> <font color="blue" size="1" face="Arial"> Łukasz </font> </p> <br>
+<H6> Czeczko <H1>
+<H5> Czeczko <H1>
+<H4> Czeczko <H1>
+<H3> Czeczko <H1>
+<H2> Czeczko <H1>
+<H1> Czeczko <H1>
+<p align="right"> <font color="yellow" size="1" face="Verdana"> B) uśmiech z okularami przeciw słonecznymi </font> </p> <br>
+<p align="right"> <font color="blue" size="1" face="Verdana">:O zaskoczenie </font> </p> <br>
+<p align="right"> <font color="aqua" size="1" face="Verdana"> :( smutek </font> </p> <br>
+<p align="right"> <font color="red" size="1" face="Verdana"> :) uśmiech</font> </p> <br>
+<p align="right"> <font color="pink" size="1" face="Verdana"> :C duży smutek </font> </p> <br>
+<p align="right"> <font color="green" size="1" face="Verdana"> :D duzy uśmiech </font> </p> <br>
+		</body>
+	</html>
